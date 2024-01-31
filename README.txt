@@ -1,0 +1,1 @@
+This was just a sample test project testing Regix and teasing my brother this shows only black screen you cant access anything if this app is open to close app press window+tab key
